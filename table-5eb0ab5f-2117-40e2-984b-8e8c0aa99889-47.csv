@@ -1,0 +1,7 @@
+﻿Feature,Description,Possible Correlation
+creation_source,How user joined,Some sources may lead to higher adoption
+opted_in_to_mailing_list,Email opt-in,May correlate with product interest
+enabled_for_marketing_drip,On marketing drip,Could affect retention
+org_id,Organization ID,Belonging to certain orgs might influence adoption
+invited_by_user_id,Was the user invited?,Invitations might drive early usage
+last_session_creation_time,Unix timestamp of last login,Active users likely to adopt
